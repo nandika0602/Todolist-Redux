@@ -1,3 +1,26 @@
+# ToDoList Application with Redux Toolkit and Redux Thunk
+
+## Overview
+
+This project is a ToDoList application built using Redux Toolkit and Redux Thunk to manage state and handle asynchronous actions. Users can add, update, and delete tasks with enhanced functionality.
+
+## Features
+Add a Task: Users can add tasks to the ToDoList.
+Update a Task: Modify existing tasks in the list.
+Delete a Task: Remove tasks from the list.
+Error Handling: If a user tries to add an empty task, an error message is displayed.
+
+Technologies Used
+React
+Redux Toolkit
+Redux Thunk
+
+Redux Structure
+The Redux logic is structured with Redux Toolkit and Redux Thunk:
+Redux Toolkit: store2, TodoList2(folder)
+Redux Thunk: store3, TodoList3(folder)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
