@@ -10,12 +10,12 @@ Update a Task: Modify existing tasks in the list.
 Delete a Task: Remove tasks from the list.
 Error Handling: If a user tries to add an empty task, an error message is displayed.
 
-Technologies Used
+## Technologies Used
 React
 Redux Toolkit
 Redux Thunk
 
-Redux Structure
+## Redux Structure
 The Redux logic is structured with Redux Toolkit and Redux Thunk:
 Redux Toolkit: store2, TodoList2(folder)
 Redux Thunk: store3, TodoList3(folder)
