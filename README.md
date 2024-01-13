@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project is a ToDoList application built using Redux Toolkit and Redux Thunk to manage state and handle asynchronous actions. Users can add, update, and delete tasks with enhanced functionality.
+This project is a ToDoList application built using 
+*Redux Toolkit 
+*Redux Thunk to manage state and handle asynchronous actions. Users can add, update, and delete tasks with enhanced functionality.
 
 ## Features
 Add a Task: Users can add tasks to the ToDoList.
